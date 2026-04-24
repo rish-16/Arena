@@ -1,4 +1,4 @@
-CC=clang++
+CC=g++
 CFLAGS=-O3
 LDFLAGS=#-static
 
